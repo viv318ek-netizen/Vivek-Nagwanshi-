@@ -1,0 +1,8 @@
+{
+  "name": "MediCare",
+  "description": "A comprehensive patient portal featuring AI-powered symptom checking, medical report simplification, and health tracking dashboards.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
